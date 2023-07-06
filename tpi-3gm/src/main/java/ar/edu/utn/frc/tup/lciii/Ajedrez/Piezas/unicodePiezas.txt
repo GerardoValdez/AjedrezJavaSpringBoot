@@ -1,0 +1,23 @@
+
+Icono Piezas:
+- Rey blanco: ♔       - Rey negro: ♚
+
+- Reina blanca: ♕     - Reina negra: ♛
+
+- Torre blanca: ♖     - Torre negra: ♜
+
+- Alfil blanco: ♗     - Alfil negro: ♝
+
+- Caballo blanco: ♘   - Caballo negro: ♞
+
+- Peón blanco: ♙      - Peón negro: ♟
+
+
+
+
+
+
+
+
+
+

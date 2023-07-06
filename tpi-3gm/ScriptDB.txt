@@ -1,0 +1,10 @@
+Debes ingresar al pgAdmin de PostgreSql
+usar el usuario por defecto postgres
+darle la contraseña 123456
+
+crear la base: 
+
+CREATE DATABASE ajedrez;
+
+
+Las tablas se crean cuando se ejecuta la app
